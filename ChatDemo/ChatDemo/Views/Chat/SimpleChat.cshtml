@@ -1,0 +1,32 @@
+﻿@model ChatDemo.ViewModels.Chat.SimpleViewModel
+
+@{
+    ViewBag.Title = "Simple Chat";
+}
+@section scripts
+{
+    <script src="~/Scripts/Site/SimpleChat.js"></script> 
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (Request.IsAuthenticated)
+{
+    @Html.LabelFor(model => model.Nickname)
+    @Html.DisplayFor(model => model.Nickname) 
+}else
+{
+    @Html.LabelFor(model => model.Nickname)
+    @Html.EditorFor(model => model.Nickname)
+}
+
+<br/>
+@Html.LabelFor(model => model.Message)
+@Html.EditorFor(model => model.Message)
+<input type="submit" value="Submit" name="submit" id="submit" />
+
+<br/>
+<label for="chat">Chat</label>
+<div><textarea id="chatArea" name="chat" cols="35" rows="10" readonly>
+</textarea><br>
+</div>
