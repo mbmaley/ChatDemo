@@ -12,7 +12,7 @@ namespace ChatDemo.Ioc.Installers
     {
         public void Install(Castle.Windsor.IWindsorContainer container, Castle.MicroKernel.SubSystems.Configuration.IConfigurationStore store)
         {
-            container.Register(Classes.FromAssemblyNamed("ChatDemo")
+            container.Register(Classes.FromThisAssembly()
                                 .BasedOn<IController>()
                                 .LifestyleTransient());
         }

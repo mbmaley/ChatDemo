@@ -46,5 +46,22 @@ namespace ChatDemo.Tests.Controllers
             // Assert
             Assert.AreEqual("Michael", chatViewModel.Nickname);
         }
+
+        [TestMethod]
+        public void SimpleChat_NonAuthenticatedUserPopulatesViewModel_ViewModelIsNotPopulated()
+        {
+            // Arrange
+            var controller = new ChatController();
+            controller.Logger = NullLogger.Instance;
+            var builder = new TestControllerBuilder();
+            builder.InitializeController(controller);
+
+            // Act
+            ViewResult result = controller.SimpleChat() as ViewResult;
+            var chatViewModel = (SimpleViewModel)result.ViewData.Model;
+
+            // Assert
+            Assert.AreEqual(null, chatViewModel);
+        }
     }
 }

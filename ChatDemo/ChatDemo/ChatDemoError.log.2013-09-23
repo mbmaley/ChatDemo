@@ -1,0 +1,72 @@
+INFO - 6 ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:22:10,165 INFO - [7] ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:22:13,323 INFO - [7] ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:22:15,347 INFO - [8] ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:22:21,442 INFO - [8] ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:22:24,033 INFO - [13] ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:25:19,141 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 19:30:45,816 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:03:48,438 - INFO - [5] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:09:48,694 - INFO - [8] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:14:32,639 - INFO - [12] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:14:33,037 - INFO - [6] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:16:19,863 - INFO - [8] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:47:21,532 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 20:47:28,789 - INFO - [8] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:50:13,327 - INFO - [13] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:50:35,023 - INFO - [6] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:51:34,340 - INFO - [9] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:53:53,240 - INFO - [13] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:54:03,053 - INFO - [13] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:54:43,153 - INFO - [8] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 20:55:08,006 - INFO - [6] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:01:00,362 - INFO - [8] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:02:59,101 - INFO - [7] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:03:50,804 - INFO - [5] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:03:53,960 - INFO - [8] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:08:30,273 - INFO - [13] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:09:43,487 - INFO - [7] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:12:15,983 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:12:43,262 - INFO - [8] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:32:46,465 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:32:55,932 - INFO - [8] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:35:12,947 - INFO - [7] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:40:13,292 - INFO - [7] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:40:30,904 - INFO - [9] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:41:58,773 - INFO - [6] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:42:45,766 - INFO - [5] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:53:27,759 - INFO - [5] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 21:53:42,553 - INFO - [5] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:54:47,068 - INFO - [9] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:54:57,186 - INFO - [11] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:57:00,850 - INFO - [14] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 21:57:18,690 - INFO - [16] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:01:00,876 - INFO - [44] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:01:41,996 - INFO - [39] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:01:53,649 - INFO - [39] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:02:17,367 - INFO - [49] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:02:27,463 - INFO - [18] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:02:40,961 - INFO - [48] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:04:12,196 - INFO - [52] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:07:47,682 - INFO - [53] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:11:49,937 - INFO - [46] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:12:15,365 - INFO - [56] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:12:29,480 - INFO - [43] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:13:43,900 - INFO - [53] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:14:57,355 - INFO - [56] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:15:12,689 - INFO - [55] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:15:24,770 - INFO - [31] - ChatDemo.Controllers.ChatController - Starting Home controller Index.
+2013-09-23 22:15:49,324 - INFO - [55] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 22:21:16,371 - INFO - [31] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 22:21:27,397 - INFO - [56] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:24:14,938 - INFO - [7] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:24:25,829 - INFO - [14] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 22:24:27,127 - INFO - [8] - ChatDemo.Controllers.HomeController - Starting Home controller Index.
+2013-09-23 22:24:45,709 - INFO - [14] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:25:02,913 - INFO - [18] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:25:26,354 - INFO - [21] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:25:46,588 - INFO - [22] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:26:36,726 - INFO - [15] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:29:29,919 - INFO - [27] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 22:35:39,675 - INFO - [27] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
+2013-09-23 23:07:01,273 - INFO - [43] - ChatDemo.Controllers.ChatController - Starting the simple chat page.
